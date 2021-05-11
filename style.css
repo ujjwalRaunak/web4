@@ -282,7 +282,10 @@ overflow-x: hidden;
     }
 }
 
-.vid1{
+.vid1{  
+  width:"400px" ;
+    height:"200px";
+
     left: 20%;
     position: absolute;
 top: 45%;
